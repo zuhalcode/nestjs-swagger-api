@@ -1,0 +1,12 @@
+body {
+  background-color: #2e2e2e !important;
+  color: #ffffff !important;
+}
+
+.swagger-ui .topbar {
+  background-color: #333333;
+}
+
+.swagger-ui .info {
+  color: #ffffff;
+}
